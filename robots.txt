@@ -1,0 +1,7 @@
+# Midway RV Park — robots.txt
+# Allow all crawlers, including AI/answer-engine bots (GEO).
+
+User-agent: *
+Allow: /
+
+Sitemap: https://midway-rvpark.com/sitemap.xml
